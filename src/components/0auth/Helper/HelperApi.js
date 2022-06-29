@@ -1,0 +1,1 @@
+export const address="https://food-app-hai.herokuapp.com/api";
